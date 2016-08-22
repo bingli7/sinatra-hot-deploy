@@ -1,4 +1,4 @@
-source 'https://ruby.taobao.org/'
+source 'rubygems.org'
 
 gem 'sinatra'
 gem 'json'
